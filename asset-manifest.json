@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/rice-mill/static/css/main.25819849.css",
+    "main.js": "/rice-mill/static/js/main.25bf9016.js",
+    "static/media/certificate1.jpg": "/rice-mill/static/media/certificate1.dc4d69b8151c4f7ffbfa.jpg",
+    "static/media/Product1.jpg": "/rice-mill/static/media/Product1.a94a3d4d52edbf342baf.jpg",
+    "static/media/profile.jpg": "/rice-mill/static/media/profile.c24e254e37755076aaee.jpg",
+    "static/media/bg-p-c.jpg": "/rice-mill/static/media/bg-p-c.15d469a88bff435fc39e.jpg",
+    "static/media/bg-home.jpg": "/rice-mill/static/media/bg-home.66d5032287be4493094b.jpg",
+    "static/media/bg-page2.png": "/rice-mill/static/media/bg-page2.4c5d8eae02b174a2d54b.png",
+    "static/media/wp.jpg": "/rice-mill/static/media/wp.699037b58691e079585b.jpg",
+    "index.html": "/rice-mill/index.html",
+    "main.25819849.css.map": "/rice-mill/static/css/main.25819849.css.map",
+    "main.25bf9016.js.map": "/rice-mill/static/js/main.25bf9016.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25819849.css",
+    "static/js/main.25bf9016.js"
+  ]
+}
